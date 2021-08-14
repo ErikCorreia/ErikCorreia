@@ -1,4 +1,4 @@
-### 👋 Ola, sou Erik. Um desenvolvedor Full stack
+### 👋 Ola, sou Erik, Um desenvolvedor Full stack
 
 # Sobre mim ...
 
