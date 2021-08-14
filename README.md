@@ -1,5 +1,8 @@
-### Hi there 👋
+### 👋 Ola, sou Erik. Um desenvolvedor Full stack
 
+# Sobre mim ...
+
+##
 <!--
 
 Here are some ideas to get you started:
