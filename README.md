@@ -15,7 +15,7 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
   </p>
   <p>
     Um outro ponto com relação ao desenvolvimento Front é que pode ser bem interessante aprender conseitos de ux design e experiência do usuário.
-    É necessário saber a opinião do usuário final e assim inovar e entregar a melho experiência. Por isso futuramente focar um pouco apenas em ux design, isso certamente sera enriquecedor para minha carreira.
+    É necessário saber a opinião do usuário final e assim inovar e entregar a melho experiência. Por isso futuramente pretendo focar um pouco apenas em ux design, isso certamente sera enriquecedor para minha carreira.
   </p>
 
 
