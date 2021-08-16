@@ -9,7 +9,16 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
 - Curto demais um jogo de FPS.
 
 ## Interesse profissional
-     ...
+  <p> 
+   Atualmente estudo para ser full stack, porem pretendo me especializar no front-end e posteriormente no back-end,
+   Claramente por ser menos complexo de entender. Sei que é importante ter conhecimento de ambas as áreas, justamente por isso escolhi ser um desenvolvedor Full stack.
+  </p>
+  <p>
+    Um outro ponto com relação ao desenvolvimento Front é que pode ser bem interessante aprender conseitos de ux design e experiência do usuário.
+    É necessário saber a opinião do usuário final e assim inovar e entregar a melho experiência. Por isso futuramente focar um pouco apenas em ux design, isso certamente sera enriquecedor para minha carreira.
+  </p>
+
+
 ## Interesse pessoal
      ...
 
@@ -20,7 +29,7 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
     <img align="center" alt="Erik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   
  <img align="center" alt="Erik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  
+      
  <img align="center" alt="Erik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
  <img align="center" alt="Erik-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
@@ -49,6 +58,8 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
    <img align="center" alt="Erik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
   
    <img align="center" alt="Erik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+
+   <img align="center" alt="Erik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
 
 </div>
 
