@@ -1,28 +1,14 @@
 ### 👋 Ola, sou Erik, Um desenvolvedor Full stack
 
-# Sobre mim ...
--
--
--
-##
-<!--
+## Sobre mim ...
+- Tenho 22 anos, sempre amei programação desde o meu primeiro contato com códigos,
+aos 14 anos. Sou muito curioso para saber como as coisas são feitas, e a sensação ao ver o resultado de algo que eu fiz é incrível.
 
-Here are some ideas to get you started:
+- Adoro filmes e séries de ficção científica e series de heróis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning reactjs and nodejs
-- 😄 Pronouns: Ele/dele
-- ⚡ Fun fact: actualy I'm programing just for hoby, but I whant to work with it in the future.
--->
- <div>
-  <a href="https://github.com/ErikCorreia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErikCorreia&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
-    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikCorreia&layout=compact&langs_count=16&theme=slateorange "/>
-</div>
-  
- </div>
- 
+- Curto demais um jogo de FPS.
+
+## Skils
  <!---------------------------------Skils icon-------------------------------------->
 <div style="display: inline_block"><br>
     <img align="center" alt="Erik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
@@ -39,6 +25,26 @@ Here are some ideas to get you started:
   
  <img align="center" alt="Erik-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
+##
+
+<!--
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning reactjs and nodejs
+- 😄 Pronouns: Ele/dele
+- ⚡ Fun fact: actualy I'm programing just for hoby, but I whant to work with it in the future.
+-->
+ <div>
+  <a href="https://github.com/ErikCorreia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErikCorreia&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikCorreia&layout=compact&langs_count=16&theme=slateorange "/>
+</div>
+  
+ </div>
+ 
+
 <!-------------------------------Social pages---------------------------------
 <div> 
   <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
