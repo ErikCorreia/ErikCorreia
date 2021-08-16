@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 Sobre mim
 - Tenho 22 anos, sempre amei programação desde o meu primeiro contato com códigos,
-aos 14 anos. Sou muito curioso para saber como as coisas são feitas, e a sensação ao ver o resultado de algo que eu fiz é incrível.
+aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensação ao ver o resultado de algo que eu fiz é incrível.
 
 - Adoro filmes e séries de ficção científica e series de heróis.
 
@@ -32,7 +32,7 @@ aos 14 anos. Sou muito curioso para saber como as coisas são feitas, e a sensa�
 </div>
 
 
-## Interesse em aprender mais
+## Tecnologias de interesse
 
  ### Front
 
