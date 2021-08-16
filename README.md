@@ -1,7 +1,7 @@
 ### 👋 Olá, sou um desenvolvedor Full stack
 
 ## 👨🏻‍💻 Sobre mim
-- Tenho 22 anos, sempre amei programação desde o meu primeiro contato com códigos,
+- Opa, sempre amei programação desde o meu primeiro contato com códigos,
 aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensação ao ver o resultado de algo que eu fiz é incrível.
 
 - Adoro filmes e séries de ficção científica e series de heróis.
@@ -9,8 +9,9 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
 - Curto demais um jogo de FPS.
 
 ## Interesse profissional
-
+     ...
 ## Interesse pessoal
+     ...
 
 ## 🛠️ Skils
 
@@ -34,8 +35,6 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
 
 ## Tecnologias de interesse
 
- ### Front
-
 <div>
    <img align="center" alt="Erik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
 
@@ -44,11 +43,7 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
    <img align="center" alt="Erik-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    
    <img align="center" alt="Erik-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
 
- ### Back
-
-<div>
    <img align="center" alt="Erik-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 
    <img align="center" alt="Erik-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
