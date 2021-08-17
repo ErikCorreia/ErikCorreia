@@ -16,7 +16,7 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
 
 - Curto demais um jogo de FPS.
 
-## 👔 Interesse profissional
+## 👔👨‍💻 Interesse profissional
   <p> 
    Atualmente estudo para ser um desenvolvedor full stack, porem pretendo me especializar no front-end, Claramente por ser menos complexo de entender, e posteriormente no back-end.
    Sei que é importante ter conhecimento de ambas as áreas, justamente por isso escolhi ser um desenvolvedor Full stack.
