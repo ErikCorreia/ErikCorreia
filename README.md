@@ -20,11 +20,6 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
    Atualmente estudo para ser um desenvolvedor full stack, porem pretendo me especializar no front-end, Claramente por ser menos complexo de entender, e posteriormente no back-end.
    Sei que é importante ter conhecimento de ambas as áreas, justamente por isso escolhi ser um desenvolvedor Full stack.
   </p>
-  <p>
-    Um outro ponto com relação ao desenvolvimento Front é que pode ser bem interessante aprender conseitos de ux design e experiência do usuário.
-    É necessário saber a opinião do usuário final e assim inovar e entregar a melho experiência. Por isso futuramente pretendo focar um pouco apenas em ux design, isso certamente sera enriquecedor para minha carreira.
-  </p>
-
 
 ## ❤️ Interesse pessoal
 
@@ -53,21 +48,12 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
 
 ## ❤📖 Tecnologias de interesse
 
-- [ ] Front-End </h3>
-
-<div>
+<div align="center">
    <img align="center" alt="Erik-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="Erik-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Erik-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Erik-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> 
    <img align="center" alt="Erik-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
    <img align="center" alt="Erik-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> 
-</div>
-
-#
-
-- [ ] Back-end
-
-<div>
    <img align="center" alt="Erik-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
    <img align="center" alt="Erik-graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
    <img align="center" alt="Erik-webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">  
