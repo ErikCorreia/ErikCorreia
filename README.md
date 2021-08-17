@@ -16,10 +16,10 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
 
 - Curto demais um jogo de FPS.
 
-## Interesse profissional
+## 👔 Interesse profissional
   <p> 
-   Atualmente estudo para ser full stack, porem pretendo me especializar no front-end e posteriormente no back-end,
-   Claramente por ser menos complexo de entender. Sei que é importante ter conhecimento de ambas as áreas, justamente por isso escolhi ser um desenvolvedor Full stack.
+   Atualmente estudo para ser um desenvolvedor full stack, porem pretendo me especializar no front-end, Claramente por ser menos complexo de entender, e posteriormente no back-end.
+   Sei que é importante ter conhecimento de ambas as áreas, justamente por isso escolhi ser um desenvolvedor Full stack.
   </p>
   <p>
     Um outro ponto com relação ao desenvolvimento Front é que pode ser bem interessante aprender conseitos de ux design e experiência do usuário.
@@ -27,9 +27,10 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
   </p>
 
 
-## Interesse pessoal
+## ❤️ Interesse pessoal
 
 - No momento estou focado apenas em aprender e praticar muito, sei que tenho um longo caminho a precorrer, mais creio que um futuro brilhante me aguarda.
+- Como já havia dito, futuramente pretendo atuar no front end. E com toda certeza crescer mais e mais.
 
 ## 🛠️ Skils
 
@@ -50,7 +51,7 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
 </div>
 
 
-## Tecnologias de interesse
+## ❤📖 Tecnologias de interesse
 
 - [ ] Front-End </h3>
 
