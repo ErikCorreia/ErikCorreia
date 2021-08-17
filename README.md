@@ -29,7 +29,6 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
 
 ## Interesse pessoal
 
-- 
 - No momento estou focado apenas em aprender e praticar muito, sei que tenho um longo caminho a precorrer, mais creio que um futuro brilhante me aguarda.
 
 ## 🛠️ Skils
@@ -53,24 +52,26 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
 
 ## Tecnologias de interesse
 
-<div align="center">
-  
+- [ ] Front-End </h3>
+
+<div>
    <img align="center" alt="Erik-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-   <img align="center" alt="Erik-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  
+     <img align="center" alt="Erik-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Erik-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> 
    <img align="center" alt="Erik-vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-   
-   <img align="center" alt="Erik-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Erik-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> 
+</div>
 
+#
+
+- [ ] Back-end
+
+<div>
    <img align="center" alt="Erik-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  
-   <img align="center" alt="Erik-nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-
    <img align="center" alt="Erik-graphql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
-
-   <img align="center" alt="Erik-webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
-
+   <img align="center" alt="Erik-webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">  
+   <img align="center" alt="Erik-webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+  <img align="center" alt="Erik-webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg"> 
 </div>
 
 #
