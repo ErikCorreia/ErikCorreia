@@ -26,7 +26,7 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
 - No momento estou focado apenas em aprender e praticar muito, sei que tenho um longo caminho a precorrer, mais creio que um futuro brilhante me aguarda.
 - Como já havia dito, futuramente pretendo atuar no front end. E com toda certeza crescer mais e mais.
 
-## 🛠️ Skils
+## 🛠️ Skills
 
 <div align="center" style="display: inline_block"><br>
 
