@@ -13,7 +13,7 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
 
 - Adoro filmes e séries de ficção científica e series de heróis.
 
-- Curto demais um jogo de FPS.
+- Amante de jagos.
 
 ## 👔👨‍💻 Interesse profissional
   <p> 
