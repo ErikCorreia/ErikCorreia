@@ -72,5 +72,4 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
   <a href="https://github.com/ErikCorreia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErikCorreia&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErikCorreia&layout=compact&langs_count=16&theme=slateorange "/>
-
 </div> 
