@@ -64,7 +64,7 @@ aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensa
 
 #
 
-## <p align="center" style="border-left: 1px solid red;"> As tecnologis de meu interesse são as que tenho que melhorar ou que ainda quero aprender.</p>
+ <p align="center" style="border-left: 1px solid red;"> As tecnologis de meu interesse são as que tenho que melhorar ou que ainda quero aprender.</p>
 
 ## 🚀 Meu perfil
 
