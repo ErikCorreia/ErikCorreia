@@ -7,25 +7,6 @@
   <a href="https://www.linkedin.com/in/erik-correia-724149192" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## 👨🏻‍💻 Sobre mim
-- Opa, sempre amei programação desde o meu primeiro contato com códigos,
-aos 14 anos. Sempre fui curioso para saber como as coisas são feitas, e a sensação ao ver o resultado de algo que eu fiz é incrível.
-
-- Adoro filmes e séries de ficção científica e series de heróis.
-
-- Amante de jagos.
-
-## 👔👨‍💻 Interesse profissional
-  <p> 
-   Atualmente estudo para ser um desenvolvedor full stack, porem pretendo me especializar no front-end, Claramente por ser menos complexo de entender, e posteriormente no back-end.
-   Sei que é importante ter conhecimento de ambas as áreas, justamente por isso escolhi ser um desenvolvedor Full stack.
-  </p>
-
-## ❤️ Interesse pessoal
-
-- No momento estou focado apenas em aprender e praticar muito, sei que tenho um longo caminho a precorrer, mais creio que um futuro brilhante me aguarda.
-- Como já havia dito, futuramente pretendo atuar no front end. E com toda certeza crescer mais e mais.
-
 ## 🛠️ Skills
 
 <div align="center" style="display: inline_block"><br>
