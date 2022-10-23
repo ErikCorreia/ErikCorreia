@@ -42,11 +42,6 @@
    <img align="center" alt="Erik-webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">  
    <img align="center" alt="Erik-webpack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
 </div>
-
-#
-
- <p align="center" style="border-left: 1px solid red;"> As tecnologis de meu interesse são as que tenho que melhorar ou que ainda quero aprender.</p>
-
 ## 🚀 Meu perfil
 
  <div>
